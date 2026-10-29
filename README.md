@@ -3,7 +3,7 @@ PROJEK: Aplikasi Panduan Pertolongan Pertama (P3K) Offline
 
 Link deployment: https://ephemeral-sprinkles-f38c53.netlify.app
 
-Arsitekturnya: 
+Teknologi yang dipakai: 
   1. HTML5 : buat kerangka programnya (di projek ini pakai single page application)
   2. CSS3 : untuk tampilan UI mobile first dan responsif
   3. Vanilla.js : logika aplikasi, manipulasi DOM, dan pencarian data
